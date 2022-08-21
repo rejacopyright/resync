@@ -1,3 +1,4 @@
+import { Suspense } from 'react'
 import Header from './header'
 import { Outlet } from 'react-router-dom'
 const Index = () => {
@@ -5,7 +6,9 @@ const Index = () => {
     <>
       <Header />
       <div className='container py-3'>
-        <Outlet />
+        <Suspense>
+          <Outlet />
+        </Suspense>
       </div>
     </>
   )
