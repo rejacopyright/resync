@@ -17,7 +17,7 @@ Open [https://reja-resync.netlify.app](https://reja-resync.netlify.app) to view 
 
 ### `Output`
 
-Open [https://reja-resync.netlify.app](https://reja-resync.netlify.app) or [https://reja-resync.netlify.app/tweet](https://reja-resync.netlify.app/tweet) then click button **"Download JSON"**
+Open [https://reja-resync.netlify.app](https://reja-resync.netlify.app) or [https://reja-resync.netlify.app/#/tweet](https://reja-resync.netlify.app/#/tweet) then click button **"Download JSON"**
 
 ![downloadJSON](public/download-json.png)
 
